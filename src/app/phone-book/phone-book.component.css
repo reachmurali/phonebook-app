@@ -1,0 +1,13 @@
+mat-form-field {
+    width: 90%;
+}
+
+mat-spinner{
+    width: 10%;
+}
+
+.list{
+    overflow-y: scroll;
+    height: 450px;
+
+}
